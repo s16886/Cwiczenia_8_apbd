@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lStsFBUUygm6dUh3G/BHBED4fO39ymg9ozghbIxrkTAcNGoCS4OpTdhG9wx/Uy7pK1xUxN9UTPnSXdCSx8Ip/Q==",
+  "dgSpecHash": "s3NFRnVaIVgUngrfh3uXfhB9yEc2ITzt4O/L+dAyS5CaxZHMK4iK0vGL/fDh8dzvSFQfwGD59jXuBfycelDrMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\macie\\source\\repos\\cwiczenia8_mp-s16886\\cw8\\cw8.csproj",
+  "projectFilePath": "C:\\Users\\macie\\source\\repos\\cwiczenia8_mp-s16886\\cw8\\Cwiczenia-8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\macie\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\macie\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

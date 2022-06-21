@@ -5,7 +5,7 @@
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Humanizer.dll": {}
+          "lib/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/Humanizer.dll": {}
@@ -133,7 +133,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "5.0.17"
         },
         "compile": {
-          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
+          "lib/netstandard2.1/_._": {}
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
@@ -5984,9 +5984,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\macie\\source\\repos\\cwiczenia8_mp-s16886\\cw8\\cw8.csproj",
-      "projectName": "cw8",
-      "projectPath": "C:\\Users\\macie\\source\\repos\\cwiczenia8_mp-s16886\\cw8\\cw8.csproj",
+      "projectUniqueName": "C:\\Users\\macie\\source\\repos\\cwiczenia8_mp-s16886\\cw8\\Cwiczenia-8.csproj",
+      "projectName": "Cwiczenia-8",
+      "projectPath": "C:\\Users\\macie\\source\\repos\\cwiczenia8_mp-s16886\\cw8\\Cwiczenia-8.csproj",
       "packagesPath": "C:\\Users\\macie\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\macie\\source\\repos\\cwiczenia8_mp-s16886\\cw8\\obj\\",
       "projectStyle": "PackageReference",
